@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, F
 from aiogram.types import Message
 from aiogram.filters import CommandStart
 
-TOKEN = "6274382596:AAFL0bcQhj3Q_hQsz4mMYi_Hz02oC5uPZ-I"
+TOKEN = "Tokeningizni bu yerga yozing"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
